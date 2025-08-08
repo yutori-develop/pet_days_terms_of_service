@@ -1,2 +1,2 @@
-# simple_pet_note_terms_of_service
-シンプルペット手帳の利用規約です。
+# pet_days_terms_of_service
+Pet Daysの利用規約です。
